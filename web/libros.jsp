@@ -25,7 +25,7 @@
             <div class="col s8">
                 <div class="card">
                     <div class="card-image">
-                        <img src="Imágenes/Menu Libros (1).png">
+                        <img src="Imágenes/Menu Libros.png">
                         <br>
                         <span class="card-title black-text" style="width: 100%; text-align: center">Gestion de libros </span>
                     </div>

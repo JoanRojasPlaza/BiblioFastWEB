@@ -26,7 +26,7 @@
             <div class="col s8">
                 <div class="card">
                     <div class="card-image">
-                        <img src="Imágenes/Menu Principal (1).png">
+                        <img src="Imágenes/Menu Principal.png">
                         <br><br>
                         <span class="card-title black-text">Menu principal</span>
                     </div>
