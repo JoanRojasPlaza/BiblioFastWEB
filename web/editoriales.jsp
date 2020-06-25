@@ -26,7 +26,7 @@
             <div class="col s8">
                 <div class="card">
                     <div class="card-image">
-                        <img src="">
+                        <img src="Imágenes/Menu Editorial.png">
                         <span class="card-title black-text" style="width: 100%; text-align: center">Gestión de editoriales</span>
                     </div>
                     <div class="card-content">
